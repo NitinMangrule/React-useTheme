@@ -1,0 +1,22 @@
+.dark {
+  background-color: black;
+}
+
+.dark {
+  color: white;
+}
+.dark .bg-black {
+  background-color: black;
+}
+
+.dark .text-white {
+  color: white;
+}
+
+header.dark {
+  background-color: black;
+}
+
+header.dark a {
+  color: white;
+}
